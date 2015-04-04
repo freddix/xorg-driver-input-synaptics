@@ -1,11 +1,11 @@
 Summary:	XOrg/XFree86 input driver for Synaptics and ALPS touchpads
 Name:		xorg-driver-input-synaptics
-Version:	1.8.1
+Version:	1.8.2
 Release:	1
 License:	MIT
 Group:		X11/Applications
 Source0:	http://xorg.freedesktop.org/archive/individual/driver/xf86-input-synaptics-%{version}.tar.bz2
-# Source0-md5:	ed70d0cba94262a4008dcef654ab34a9
+# Source0-md5:	8ed68e8cc674dd61adb280704764aafb
 Source1:	%{name}.conf
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf
